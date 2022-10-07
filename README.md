@@ -1,6 +1,6 @@
 # office2hashcat
 
-### changing a few lines due to deprecated
+### changing a few lines due to deprecated function since Python3.9
 
 [initial source](https://raw.githubusercontent.com/stricture/hashstack-server-plugin-oclhashcat/master/scrapers/office2hashcat.py)
 
