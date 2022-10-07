@@ -2,7 +2,7 @@
 
 ### changing a few lines due to deprecated
 
-(initial source)[https://raw.githubusercontent.com/stricture/hashstack-server-plugin-oclhashcat/master/scrapers/office2hashcat.py]
+[initial source](https://raw.githubusercontent.com/stricture/hashstack-server-plugin-oclhashcat/master/scrapers/office2hashcat.py)
 
 ### firstError:
 AttributeError: 'ElementTree' object has no attribute 'getiterator'
