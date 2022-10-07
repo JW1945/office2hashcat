@@ -13,3 +13,8 @@ AttributeError: 'ElementTree' object has no attribute 'getiterator'
 AttributeError: module 'base64' has no attribute 'decodestring'
 
 > change base64.decodestring() to base64.decodebytes()
+
+### Usage:
+```bash
+Usage: office2hashcat.py <encrypted Office file(s)>
+```
